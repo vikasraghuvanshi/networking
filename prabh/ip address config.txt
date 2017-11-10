@@ -1,0 +1,4 @@
+ip address :- 192.168.78.135 on vmware 
+
+vhosting :- 192.168.78.135    www.pollution.com
+            192.168.78.135    www.minions.com

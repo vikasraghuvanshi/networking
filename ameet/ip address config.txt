@@ -1,0 +1,4 @@
+ip address :- 192.168.198.128 on vmware 
+
+vhosting :- 192.168.198.128    www.envopollution.com
+            192.168.198.128    www.minionworld.com

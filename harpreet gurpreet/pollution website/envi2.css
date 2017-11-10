@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+.main
+{
+	width:100%;
+	margin:o auto;
+}
+.nav
+{
+	background-color:#060;
+	height:70px;
+	width:100%;
+}
+.nav ul 
+{
+	margin:0;
+	padding:0;
+}
+.nav ul li
+{
+	float:left;
+	padding:20px;
+	font-size:24px;
+	list-style:none;
+}
+.nav ul li a
+{
+	text-decoration:none;
+	color:#CCC;
+}
+.nav ul li:hover
+{
+	background-color:#C3C;
+}
+.photo img
+{
+	width:50%;
+	height:300px;
+	float:left;
+}
+.photo img
+{
+	width:50%;
+	height:300px;
+	float:right;
+}
+.photo img
+{
+	width:50%;
+	height:300px;
+	float:left;
+}
+.photo img
+{
+	width:50%;
+	height:300px;
+	float:right;
+}
+
+
